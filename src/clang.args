@@ -1,0 +1,3 @@
+-D__SYNTHESIS__
+-I/home/xls-developer/xls/bazel-xls/xls/contrib/xlscc/synth_only
+-I/home/xls-developer/xls/ac_types

@@ -1,0 +1,11 @@
+channels {
+  name: "in_sample"
+  is_input: true
+  type: FIFO
+}
+channels {
+  name: "out_pred"
+  is_input: false
+  type: FIFO
+}
+name: "adpcm"

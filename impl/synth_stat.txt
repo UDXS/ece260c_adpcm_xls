@@ -1,0 +1,57 @@
+
+24. Printing statistics.
+
+=== adpcm_xls ===
+
+   Number of wires:               3830
+   Number of wire bits:           3860
+   Number of public wires:         108
+   Number of public wire bits:     138
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               3403
+     AND2x2_ASAP7_75t_R            312
+     AND2x4_ASAP7_75t_R              1
+     AND3x2_ASAP7_75t_R            112
+     AND4x2_ASAP7_75t_R             37
+     AND5x2_ASAP7_75t_R              4
+     AO211x2_ASAP7_75t_R            10
+     AO21x2_ASAP7_75t_R            234
+     AO221x2_ASAP7_75t_R            49
+     AO222x2_ASAP7_75t_R             3
+     AO22x2_ASAP7_75t_R             15
+     AO31x2_ASAP7_75t_R              6
+     AO32x2_ASAP7_75t_R             33
+     AO33x2_ASAP7_75t_R              3
+     BUFx2_ASAP7_75t_R             241
+     BUFx3_ASAP7_75t_R               8
+     BUFx4f_ASAP7_75t_R              3
+     BUFx6f_ASAP7_75t_R             16
+     DFFLQNx2_ASAP7_75t_R          112
+     FAx1_ASAP7_75t_R              115
+     HAxp5_ASAP7_75t_R             322
+     INVx2_ASAP7_75t_R             413
+     INVx3_ASAP7_75t_R               1
+     MAJx2_ASAP7_75t_R               2
+     NAND2x2_ASAP7_75t_R            44
+     NAND3x2_ASAP7_75t_R             4
+     NOR2x2_ASAP7_75t_R             62
+     NOR3x2_ASAP7_75t_R             10
+     OA211x2_ASAP7_75t_R           130
+     OA21x2_ASAP7_75t_R            415
+     OA221x2_ASAP7_75t_R            13
+     OA222x2_ASAP7_75t_R             5
+     OA22x2_ASAP7_75t_R             19
+     OA31x2_ASAP7_75t_R             40
+     OA33x2_ASAP7_75t_R              2
+     OR2x2_ASAP7_75t_R             272
+     OR2x6_ASAP7_75t_R               1
+     OR3x2_ASAP7_75t_R             100
+     OR4x2_ASAP7_75t_R              41
+     OR5x2_ASAP7_75t_R              20
+     XNOR2x2_ASAP7_75t_R           108
+     XOR2x2_ASAP7_75t_R             65
+
+   Chip area for module '\adpcm_xls': 394.797240
+
